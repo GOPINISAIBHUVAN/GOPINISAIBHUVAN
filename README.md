@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm GOPINI SAI BHUVAN</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">GOPINI SAI BHUVAN</h1>
+<h3 align="center">Interested to be a Software Developer</h3>
 
-- 🌱 I’m currently learning **java**
-- 🌱 I’m currently learning **HTML**
+- 🌱 Languages Known
+  HMTL
+
 - 🌱 I’m currently learning **CSS**
 
 
