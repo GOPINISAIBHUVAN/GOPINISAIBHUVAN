@@ -3,8 +3,19 @@
 
 - 🌱 Languages Known
   HMTL
+  CSS
+  JS
+  JAVA
+  MYSQL
+  PYTHON
 
-- 🌱 I’m currently learning **CSS**
+
+
+- 🌱 Lib Known
+  PANDAS
+  MATPLOIT.LIB
+  NUMPY
+  KERAS
 
 
 <h3 align="left">Connect with me:</h3>
